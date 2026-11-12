@@ -9,6 +9,7 @@ Home screen widgets for iPhone, written in JavaScript for the [Scriptable](https
 | `widgets/greeting-widget.js` | Small | Time-of-day greeting and today's date |
 | `widgets/weather-calendar-widget.js` | Large | Current weather, high/low, big date, next calendar events, month grid, 6-day forecast |
 | `widgets/illustrated-weather-widget.js` | Large | Your own picture, big weekday, weather sentence with humidity and wind, city, 4-day forecast |
+| `widgets/year-progress-widget.js` | Medium | One dot per day of the year: past days black, today red, plus days left |
 
 Weather comes from [Open-Meteo](https://open-meteo.com) (free, no API key) using your phone's location.
 
