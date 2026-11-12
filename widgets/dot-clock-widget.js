@@ -4,7 +4,7 @@
 // true  = dotted "LED" digits. iOS only redraws widgets every ~15 min or more,
 //         so the time can lag behind the real time.
 // false = always-correct live time, in a plain monospaced font.
-const DOT_MATRIX = true
+const DOT_MATRIX = false
 
 const RED = new Color("#e8141c")
 const TEXT = new Color("#1a1a1a")
