@@ -12,6 +12,7 @@ Home screen widgets for iPhone, written in JavaScript for the [Scriptable](https
 | `widgets/year-progress-widget.js` | Medium | One dot per day of the year: past days black, today red, plus days left |
 | `widgets/dot-clock-widget.js` | Small | Weekday, red dot-matrix time, month and day |
 | `widgets/day-progress-widget.js` | Medium | Date, live time, 24 hour bars filled up to now, and % of the day passed |
+| `widgets/photo-widget.js` | Medium | A photo you choose from your library, filling the widget |
 
 Weather comes from [Open-Meteo](https://open-meteo.com) (free, no API key) using your phone's location.
 
