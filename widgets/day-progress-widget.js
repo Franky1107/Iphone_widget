@@ -1,11 +1,11 @@
 // Day progress widget (MEDIUM size) for Scriptable
 // 24 bars, one per hour of the day, filled up to the current time.
 
-const BG = Color.white()
-const RED = new Color("#111111")   // header text (date and time)
-const FILL = new Color("#111111")  // passed hours and percentage
-const EMPTY = new Color("#dcdcdc") // hours still to come
-const WHITE = new Color("#555555") // "12AM" labels
+const BG = new Color("#000000")
+const RED = Color.white()          // header text (date and time)
+const FILL = Color.white()         // passed hours and percentage
+const EMPTY = new Color("#333333") // hours still to come
+const WHITE = new Color("#aaaaaa") // "12AM" labels
 
 const BARS = 24
 const BAR_W = 8.5
